@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		33CA4AA91A6B24C900BAD6FD /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF9FB701A6808E0008F37EB /* XCTest.framework */; };
-		33CA4AAA1A6B24C900BAD6FD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF9FB721A6808E0008F37EB /* CoreGraphics.framework */; };
-		33CA4AAB1A6B24C900BAD6FD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF9FB741A6808E0008F37EB /* UIKit.framework */; };
-		33CA4AAC1A6B24C900BAD6FD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF9FB761A6808E0008F37EB /* Foundation.framework */; };
-		33CA4AB11A6B24CA00BAD6FD /* Bootcamp Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 33CA4AB01A6B24CA00BAD6FD /* Bootcamp Tests-Info.plist */; };
-		33CA4AB31A6B24CA00BAD6FD /* ExampleSpec.mm in Sources */ = {isa = PBXBuildFile; fileRef = 33CA4AB21A6B24CA00BAD6FD /* ExampleSpec.mm */; };
-		33CA4AB61A6B24CA00BAD6FD /* Cedar-iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33CA4AB51A6B24CA00BAD6FD /* Cedar-iOS.framework */; };
+		33CA4AC51A6B29BC00BAD6FD /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF9FB701A6808E0008F37EB /* XCTest.framework */; };
+		33CA4AC61A6B29BC00BAD6FD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF9FB721A6808E0008F37EB /* CoreGraphics.framework */; };
+		33CA4AC71A6B29BC00BAD6FD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF9FB741A6808E0008F37EB /* UIKit.framework */; };
+		33CA4AC81A6B29BC00BAD6FD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DF9FB761A6808E0008F37EB /* Foundation.framework */; };
+		33CA4ACD1A6B29BC00BAD6FD /* Bootcamp Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 33CA4ACC1A6B29BC00BAD6FD /* Bootcamp Tests-Info.plist */; };
+		33CA4ACF1A6B29BC00BAD6FD /* ExampleSpec.mm in Sources */ = {isa = PBXBuildFile; fileRef = 33CA4ACE1A6B29BC00BAD6FD /* ExampleSpec.mm */; };
+		33CA4AD21A6B29BD00BAD6FD /* Cedar-iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33CA4AD11A6B29BD00BAD6FD /* Cedar-iOS.framework */; };
 		7D02AEBF1A66BB9200BC843F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D02AEBE1A66BB9200BC843F /* main.m */; };
 		7D02AEC21A66BB9200BC843F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D02AEC11A66BB9200BC843F /* AppDelegate.m */; };
 		7D02AEC51A66BB9200BC843F /* Bootcamp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7D02AEC31A66BB9200BC843F /* Bootcamp.xcdatamodeld */; };
@@ -49,7 +49,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		33CA4AB71A6B24CA00BAD6FD /* PBXContainerItemProxy */ = {
+		33CA4AD31A6B29BD00BAD6FD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 7D02AEB11A66BB9200BC843F /* Project object */;
 			proxyType = 1;
@@ -59,12 +59,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		33CA4AA81A6B24C900BAD6FD /* Bootcamp Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bootcamp Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		33CA4AAF1A6B24CA00BAD6FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		33CA4AB01A6B24CA00BAD6FD /* Bootcamp Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Bootcamp Tests-Info.plist"; sourceTree = "<group>"; };
-		33CA4AB21A6B24CA00BAD6FD /* ExampleSpec.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = ExampleSpec.mm; sourceTree = "<group>"; };
-		33CA4AB41A6B24CA00BAD6FD /* Rakefile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Rakefile; sourceTree = "<group>"; };
-		33CA4AB51A6B24CA00BAD6FD /* Cedar-iOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cedar-iOS.framework"; path = "Frameworks/Cedar-iOS.framework"; sourceTree = "<group>"; };
+		33CA4AC41A6B29BC00BAD6FD /* Bootcamp Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bootcamp Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		33CA4ACB1A6B29BC00BAD6FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33CA4ACC1A6B29BC00BAD6FD /* Bootcamp Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Bootcamp Tests-Info.plist"; sourceTree = "<group>"; };
+		33CA4ACE1A6B29BC00BAD6FD /* ExampleSpec.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = ExampleSpec.mm; sourceTree = "<group>"; };
+		33CA4AD01A6B29BC00BAD6FD /* Rakefile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Rakefile; sourceTree = "<group>"; };
+		33CA4AD11A6B29BD00BAD6FD /* Cedar-iOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cedar-iOS.framework"; path = "Frameworks/Cedar-iOS.framework"; sourceTree = "<group>"; };
 		7D02AEB91A66BB9200BC843F /* Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D02AEBD1A66BB9200BC843F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7D02AEBE1A66BB9200BC843F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -129,19 +129,19 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		33CA4AA11A6B24C900BAD6FD /* Frameworks */ = {
+		33CA4ABD1A6B29BC00BAD6FD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				33CA4AAA1A6B24C900BAD6FD /* CoreGraphics.framework in Frameworks */,
-				33CA4AAB1A6B24C900BAD6FD /* UIKit.framework in Frameworks */,
-				33CA4AB61A6B24CA00BAD6FD /* Cedar-iOS.framework in Frameworks */,
-				33CA4AA91A6B24C900BAD6FD /* XCTest.framework in Frameworks */,
-				33CA4AAC1A6B24C900BAD6FD /* Foundation.framework in Frameworks */,
+				33CA4AC61A6B29BC00BAD6FD /* CoreGraphics.framework in Frameworks */,
+				33CA4AC71A6B29BC00BAD6FD /* UIKit.framework in Frameworks */,
+				33CA4AD21A6B29BD00BAD6FD /* Cedar-iOS.framework in Frameworks */,
+				33CA4AC51A6B29BC00BAD6FD /* XCTest.framework in Frameworks */,
+				33CA4AC81A6B29BC00BAD6FD /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		33CA4AA41A6B24C900BAD6FD /* Frameworks */ = {
+		33CA4AC01A6B29BC00BAD6FD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -158,22 +158,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		33CA4AAD1A6B24C900BAD6FD /* Bootcamp Tests */ = {
+		33CA4AC91A6B29BC00BAD6FD /* Bootcamp Tests */ = {
 			isa = PBXGroup;
 			children = (
-				33CA4AB01A6B24CA00BAD6FD /* Bootcamp Tests-Info.plist */,
-				33CA4AB21A6B24CA00BAD6FD /* ExampleSpec.mm */,
-				33CA4AB41A6B24CA00BAD6FD /* Rakefile */,
-				33CA4AB51A6B24CA00BAD6FD /* Cedar-iOS.framework */,
-				33CA4AAE1A6B24CA00BAD6FD /* Supporting Files */,
+				33CA4ACC1A6B29BC00BAD6FD /* Bootcamp Tests-Info.plist */,
+				33CA4ACE1A6B29BC00BAD6FD /* ExampleSpec.mm */,
+				33CA4AD01A6B29BC00BAD6FD /* Rakefile */,
+				33CA4AD11A6B29BD00BAD6FD /* Cedar-iOS.framework */,
+				33CA4ACA1A6B29BC00BAD6FD /* Supporting Files */,
 			);
 			path = "Bootcamp Tests";
 			sourceTree = "<group>";
 		};
-		33CA4AAE1A6B24CA00BAD6FD /* Supporting Files */ = {
+		33CA4ACA1A6B29BC00BAD6FD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				33CA4AAF1A6B24CA00BAD6FD /* Info.plist */,
+				33CA4ACB1A6B29BC00BAD6FD /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -182,7 +182,7 @@
 			isa = PBXGroup;
 			children = (
 				7D02AEBB1A66BB9200BC843F /* Bootcamp */,
-				33CA4AAD1A6B24C900BAD6FD /* Bootcamp Tests */,
+				33CA4AC91A6B29BC00BAD6FD /* Bootcamp Tests */,
 				7DF9FB6F1A6808E0008F37EB /* Frameworks */,
 				7D02AEBA1A66BB9200BC843F /* Products */,
 			);
@@ -192,7 +192,7 @@
 			isa = PBXGroup;
 			children = (
 				7D02AEB91A66BB9200BC843F /* Bootcamp.app */,
-				33CA4AA81A6B24C900BAD6FD /* Bootcamp Tests.xctest */,
+				33CA4AC41A6B29BC00BAD6FD /* Bootcamp Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -305,26 +305,26 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		33CA4AA71A6B24C900BAD6FD /* Bootcamp Tests */ = {
+		33CA4AC31A6B29BC00BAD6FD /* Bootcamp Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 33CA4AB91A6B24CA00BAD6FD /* Build configuration list for PBXNativeTarget "Bootcamp Tests" */;
+			buildConfigurationList = 33CA4AD51A6B29BD00BAD6FD /* Build configuration list for PBXNativeTarget "Bootcamp Tests" */;
 			buildPhases = (
-				33CA4AA01A6B24C900BAD6FD /* Sources */,
-				33CA4AA11A6B24C900BAD6FD /* Frameworks */,
-				33CA4AA21A6B24C900BAD6FD /* Resources */,
-				33CA4AA31A6B24C900BAD6FD /* Sources */,
-				33CA4AA41A6B24C900BAD6FD /* Frameworks */,
-				33CA4AA51A6B24C900BAD6FD /* Resources */,
-				33CA4AA61A6B24C900BAD6FD /* ShellScript */,
+				33CA4ABC1A6B29BC00BAD6FD /* Sources */,
+				33CA4ABD1A6B29BC00BAD6FD /* Frameworks */,
+				33CA4ABE1A6B29BC00BAD6FD /* Resources */,
+				33CA4ABF1A6B29BC00BAD6FD /* Sources */,
+				33CA4AC01A6B29BC00BAD6FD /* Frameworks */,
+				33CA4AC11A6B29BC00BAD6FD /* Resources */,
+				33CA4AC21A6B29BC00BAD6FD /* ShellScript */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				33CA4AB81A6B24CA00BAD6FD /* PBXTargetDependency */,
+				33CA4AD41A6B29BD00BAD6FD /* PBXTargetDependency */,
 			);
 			name = "Bootcamp Tests";
 			productName = "Bootcamp Tests";
-			productReference = 33CA4AA81A6B24C900BAD6FD /* Bootcamp Tests.xctest */;
+			productReference = 33CA4AC41A6B29BC00BAD6FD /* Bootcamp Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		7D02AEB81A66BB9200BC843F /* Bootcamp */ = {
@@ -353,7 +353,7 @@
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = DX209;
 				TargetAttributes = {
-					33CA4AA71A6B24C900BAD6FD = {
+					33CA4AC31A6B29BC00BAD6FD = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 7D02AEB81A66BB9200BC843F;
 					};
@@ -376,21 +376,21 @@
 			projectRoot = "";
 			targets = (
 				7D02AEB81A66BB9200BC843F /* Bootcamp */,
-				33CA4AA71A6B24C900BAD6FD /* Bootcamp Tests */,
+				33CA4AC31A6B29BC00BAD6FD /* Bootcamp Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		33CA4AA21A6B24C900BAD6FD /* Resources */ = {
+		33CA4ABE1A6B29BC00BAD6FD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				33CA4AB11A6B24CA00BAD6FD /* Bootcamp Tests-Info.plist in Resources */,
+				33CA4ACD1A6B29BC00BAD6FD /* Bootcamp Tests-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		33CA4AA51A6B24C900BAD6FD /* Resources */ = {
+		33CA4AC11A6B29BC00BAD6FD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -416,7 +416,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		33CA4AA61A6B24C900BAD6FD /* ShellScript */ = {
+		33CA4AC21A6B29BC00BAD6FD /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -432,15 +432,15 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		33CA4AA01A6B24C900BAD6FD /* Sources */ = {
+		33CA4ABC1A6B29BC00BAD6FD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				33CA4AB31A6B24CA00BAD6FD /* ExampleSpec.mm in Sources */,
+				33CA4ACF1A6B29BC00BAD6FD /* ExampleSpec.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		33CA4AA31A6B24C900BAD6FD /* Sources */ = {
+		33CA4ABF1A6B29BC00BAD6FD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -480,10 +480,10 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		33CA4AB81A6B24CA00BAD6FD /* PBXTargetDependency */ = {
+		33CA4AD41A6B29BD00BAD6FD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 7D02AEB81A66BB9200BC843F /* Bootcamp */;
-			targetProxy = 33CA4AB71A6B24CA00BAD6FD /* PBXContainerItemProxy */;
+			targetProxy = 33CA4AD31A6B29BD00BAD6FD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -507,7 +507,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		33CA4ABA1A6B24CA00BAD6FD /* Debug */ = {
+		33CA4AD61A6B29BD00BAD6FD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -539,7 +539,7 @@
 			};
 			name = Debug;
 		};
-		33CA4ABB1A6B24CA00BAD6FD /* Release */ = {
+		33CA4AD71A6B29BD00BAD6FD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -677,11 +677,11 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		33CA4AB91A6B24CA00BAD6FD /* Build configuration list for PBXNativeTarget "Bootcamp Tests" */ = {
+		33CA4AD51A6B29BD00BAD6FD /* Build configuration list for PBXNativeTarget "Bootcamp Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				33CA4ABA1A6B24CA00BAD6FD /* Debug */,
-				33CA4ABB1A6B24CA00BAD6FD /* Release */,
+				33CA4AD61A6B29BD00BAD6FD /* Debug */,
+				33CA4AD71A6B29BD00BAD6FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
