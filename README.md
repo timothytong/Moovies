@@ -1,5 +1,6 @@
 # Moovies
 An app that fetches movie info from Rotten Tomatoes and displays it to users.
+The purpose of this app is to practice the use of Autolayout, CoreData, and API-calling.
 
 Copyright (c) 2015 Timothy Tong, Samiya Akhtar
 
